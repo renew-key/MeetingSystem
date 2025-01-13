@@ -1,0 +1,20 @@
+{
+  "zh-TW": "Chinese",
+  "en": "English",
+  "title": "Management platform backend system",
+  "login": "login",
+  "account": "account",
+  "password": "password",
+  "forgetPassword": "Forgot Password",
+  "forgetString": "Forgot your password? Please contact the administrator to reset it!",
+  "accountMsg": "Please enter your account number!",
+  "passwordMsg": "Please enter password!",
+  "noAccount": "No such account found",
+  "enterAccount": "Please enter account ",
+  "enterPassword": "Please enter password",
+  "loginBtn": "LOGIN",
+  "search": "search",
+  "permissionSetting": "Permission settings",
+  "Profile": "Profile",
+  "logout": "Logout"
+}

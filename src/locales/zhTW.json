@@ -1,0 +1,20 @@
+{
+  "zh-TW": "繁體中文",
+  "en": "英文",
+  "title": "管理平台後台系統",
+  "login": "登入",
+  "account": "帳號",
+  "password": "密碼",
+  "forgetPassword": "忘記密碼",
+  "forgetString": "忘記密碼，請聯絡管理人員進行重設!",
+  "accountMsg": "請輸入帳號!",
+  "passwordMsg": "請輸入密碼!",
+  "noAccount": "查無此帳號",
+  "enterAccount": "請輸入帳號",
+  "enterPassword": "請輸入密碼!",
+  "loginBtn": "登入",
+  "search": "搜尋",
+  "permissionSetting": "權限設定",
+  "Profile": "用戶資料",
+  "logout": "登出"
+}
